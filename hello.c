@@ -6,4 +6,8 @@ int main(){
     printf("ECHELON");
     return 0;
 
+    int m;
+    printf(" enter a value for m");
+    scanf("%d",&m);
+
 }
