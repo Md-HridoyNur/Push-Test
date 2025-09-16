@@ -4,8 +4,7 @@
 #include <vector>
 using namespace std;
 
-int main(){
-    printf("Hello, World!\n");
-    printf("This is a test of C++14 standard.\n");
-    return 0;
+double f(const vector<double>& coeffs, double x) {
+    int n = coeffs.size() -1;
 }
+
